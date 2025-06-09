@@ -25,11 +25,11 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=thiagovinicius&show_icons=true&theme=gotham" alt="thiagovinicius" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thiagovodmr&show_icons=true&theme=gotham" alt="thiagovinicius" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagovinicius&layout=compact&theme=gotham" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagovodmr&layout=compact&theme=gotham" />
 </p>
 
 ---
