@@ -5,7 +5,7 @@
 - 🌱 Atualmente aprendendo **[tecnologia ou linguagem]**
 - 💬 Me pergunte sobre **JavaScript, React, Node.js, etc.**
 - 📫 Como me contatar: **[seu email]**
-- 📄 Veja meu currículo [LinkedIn](https://www.linkedin.com/in/thiago-vin%C3%ADcius/)
+- 📄 Veja meu currículo [LinkedIn](https://www.linkedin.com/in/thiago-vin%C3%ADcius/) ou [Currículo Online](https://thiagovodmr.github.io/curriculo_online)
 
 ---
 
