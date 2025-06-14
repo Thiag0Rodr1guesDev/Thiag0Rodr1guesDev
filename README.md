@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thiago Vinícius</h1>
 <h3 align="center">Desenvolvedor apaixonado por tecnologia e aprendizado contínuo</h3>
 
-- 📫 Como me contatar: **[tvnicius782@gmail.com]**
+- 📫 Como me contatar: **tvnicius782@gmail.com**
 - 📄 Veja meu currículo [LinkedIn](https://www.linkedin.com/in/thiago-vin%C3%ADcius/) ou [Currículo Online](https://thiagovodmr.github.io/curriculo_online)
 
 ---
