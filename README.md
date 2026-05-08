@@ -29,6 +29,13 @@
 ![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
+### 📐 Princípios & Boas Práticas
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-6DB33F?style=for-the-badge&logoColor=white)
+![SOLID](https://img.shields.io/badge/SOLID-7F52FF?style=for-the-badge&logoColor=white)
+![MVC](https://img.shields.io/badge/MVC-FF9900?style=for-the-badge&logoColor=white)
+![Repository Pattern](https://img.shields.io/badge/Repository_Pattern-316192?style=for-the-badge&logoColor=white)
+![Service Pattern](https://img.shields.io/badge/Service_Pattern-CC2927?style=for-the-badge&logoColor=white)
+
 ---
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Thiag0Rodr1guesDev&theme=tokyonight&no-frame=true&row=1&title=Repositories,Commits,Followers,Experience,MultiLanguage)
 ---
