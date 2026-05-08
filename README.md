@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Thiago Vinícius</h1>
-<h3 align="center">Desenvolvedor apaixonado por tecnologia e aprendizado contínuo</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&width=435&lines=Full-Stack+Web+Developer;4+anos+de+experiência;Apaixonado+por+tecnologia;Aprendizado+continuo)](https://git.io/typing-svg)
 
 - 📫 Como me contatar: **tvnicius782@gmail.com**
 - 📄 Veja meu currículo [LinkedIn](https://www.linkedin.com/in/thiago-vin%C3%ADcius/) ou [Currículo Online](https://Thiag0Rodr1guesDev.github.io/curriculo_online)
 
 ---
-
 ### 🧰 Tecnologias e Ferramentas
-
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -25,8 +23,9 @@
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
 ---
+![Trophies](https://github-profile-trophy.vercel.app/?username=Thiag0Rodr1guesDev&theme=tokyonight&no-frame=true&row=1)
 
-
+---
 ### 🌐 Contato e Redes
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-vin%C3%ADcius/)
