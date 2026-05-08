@@ -27,8 +27,7 @@
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
 ---
-![Trophies](https://github-profile-trophy.vercel.app/?username=Thiag0Rodr1guesDev&theme=tokyonight&no-frame=true&row=1)
-
+![Trophies](https://github-profile-trophy.vercel.app/?username=Thiag0Rodr1guesDev&theme=tokyonight&no-frame=true&row=1&title=Repositories,Commits,Followers,Experience,MultiLanguage)
 ---
 ### 🌐 Contato e Redes
 
