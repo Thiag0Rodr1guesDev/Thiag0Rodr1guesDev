@@ -1,10 +1,14 @@
 <h1 align="center">Hi 👋, I'm Thiago Vinícius</h1>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&width=435&lines=Full-Stack+Web+Developer;4+anos+de+experiência;Apaixonado+por+tecnologia;Aprendizado+continuo)](https://git.io/typing-svg)
+<h3 align="center">Desenvolvedor apaixonado por tecnologia e aprendizado contínuo</h3>
+
+
 
 - 📫 Como me contatar: **tvnicius782@gmail.com**
 - 📄 Veja meu currículo [LinkedIn](https://www.linkedin.com/in/thiago-vin%C3%ADcius/) ou [Currículo Online](https://Thiag0Rodr1guesDev.github.io/curriculo_online)
 
 ---
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&width=435&lines=FullStack+Web+Developer;4+anos+de+experiência;Apaixonado+por+Tecnologia;Aprendizado+Contínuo)](https://git.io/typing-svg)
+
 ### 🧰 Tecnologias e Ferramentas
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
