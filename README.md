@@ -38,8 +38,6 @@
 ![Service Pattern](https://img.shields.io/badge/Service_Pattern-CC2927?style=for-the-badge&logoColor=white)
 
 ---
-![Trophies](https://github-profile-trophy.vercel.app/?username=Thiag0Rodr1guesDev&theme=tokyonight&no-frame=true&row=1&title=Repositories,Commits,Followers,Experience,MultiLanguage)
----
 ### 🌐 Contato e Redes
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-vin%C3%ADcius/)
